@@ -1,0 +1,15 @@
+C:\Users\fresh\Desktop\dcit318-assignment2-11352745\Abstraction\bin\Debug\net9.0\Abstraction.exe
+C:\Users\fresh\Desktop\dcit318-assignment2-11352745\Abstraction\bin\Debug\net9.0\Abstraction.deps.json
+C:\Users\fresh\Desktop\dcit318-assignment2-11352745\Abstraction\bin\Debug\net9.0\Abstraction.runtimeconfig.json
+C:\Users\fresh\Desktop\dcit318-assignment2-11352745\Abstraction\bin\Debug\net9.0\Abstraction.dll
+C:\Users\fresh\Desktop\dcit318-assignment2-11352745\Abstraction\bin\Debug\net9.0\Abstraction.pdb
+C:\Users\fresh\Desktop\dcit318-assignment2-11352745\Abstraction\obj\Debug\net9.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fresh\Desktop\dcit318-assignment2-11352745\Abstraction\obj\Debug\net9.0\Abstraction.AssemblyInfoInputs.cache
+C:\Users\fresh\Desktop\dcit318-assignment2-11352745\Abstraction\obj\Debug\net9.0\Abstraction.AssemblyInfo.cs
+C:\Users\fresh\Desktop\dcit318-assignment2-11352745\Abstraction\obj\Debug\net9.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\fresh\Desktop\dcit318-assignment2-11352745\Abstraction\obj\Debug\net9.0\Abstraction.sourcelink.json
+C:\Users\fresh\Desktop\dcit318-assignment2-11352745\Abstraction\obj\Debug\net9.0\Abstraction.dll
+C:\Users\fresh\Desktop\dcit318-assignment2-11352745\Abstraction\obj\Debug\net9.0\refint\Abstraction.dll
+C:\Users\fresh\Desktop\dcit318-assignment2-11352745\Abstraction\obj\Debug\net9.0\Abstraction.pdb
+C:\Users\fresh\Desktop\dcit318-assignment2-11352745\Abstraction\obj\Debug\net9.0\Abstraction.genruntimeconfig.cache
+C:\Users\fresh\Desktop\dcit318-assignment2-11352745\Abstraction\obj\Debug\net9.0\ref\Abstraction.dll
